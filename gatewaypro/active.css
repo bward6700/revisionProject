@@ -1,0 +1,126 @@
+body{
+    background: url(images/bwtoronto.jpg);
+    background-size:cover;
+}
+
+.nheader{
+    width:100%;
+    background-color: rgba(0,0,0,.30);
+}
+
+.nheader ul{
+    text-align: center;
+}
+
+.nheader ul li{
+    list-style: none;
+    display: inline-block;
+}
+
+.nheader ul li a{
+    display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 2px;
+    font-weight: 600;
+    padding: 25px;
+    transition: all ease 0.5s;
+}
+
+.nheader ul li a:hover{
+    background-color: #211b4385;
+}
+
+.activetitle{
+    text-align: center;
+    font-size: 40px;
+}
+
+.rom{
+    background-color: rgba(0,0,0,.30);
+    text-align: left;
+    padding: 20px;
+    height: 335px;
+    width: 500px;
+    border: 6px solid black;
+    margin:20px;
+    position: relative;
+}
+
+.rom h2{
+    color: #fff;
+}
+
+.rom p{
+    color: #fff;
+}
+
+.rom1{
+    border-radius: 0 50px 0 50px;
+    width:25%;
+}
+
+.rap{
+    background-color: rgba(0,0,0,.50);
+    text-align: left;
+    padding: 20px;
+    height: 335px;
+    width: 500px;
+    border: 6px solid black;
+    margin:20px;
+    margin-left:50%;
+    position: relative;
+}
+
+.rap h2{
+    color: #fff;
+}
+
+.rap p{
+    color: #fff;
+}
+
+.rap1{
+    border-radius: 0 50px 0 50px;
+    width:25%;
+}
+
+.rip{
+    background-color: rgba(0,0,0,.75);
+    text-align: left;
+    padding: 20px;
+    height: 335px;
+    width: 500px;
+    border: 6px solid black;
+    margin:20px;
+    position: relative;
+}
+
+.rip h2{
+    color: #fff;
+}
+
+.rip p{
+    color:#fff
+}
+
+.rip1{
+    border-radius: 0 50px 0 50px;
+    width:25%;
+}
+
+footer{
+    text-align: right;
+    float: inline-end;
+}
+
+footer p{
+    color: #fff;
+}
+
+.Blogo{
+    width:2%;
+  }
